@@ -1,0 +1,18 @@
+
+body{
+    text-align: center;
+}
+button{
+    padding: 10px 16px;
+    background-color: #0ff;
+    border: 1px solid grey;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input{
+    height: 2rem;
+    width: 5rem;
+    font-size: 1rem;
+    margin: 20px 8px;
+    box-sizing: border-box;
+}
